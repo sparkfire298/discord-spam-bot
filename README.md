@@ -20,3 +20,6 @@ so its a spam bot because it detects its own messages causing a massive flood of
 
 ### is this bannable?
 ~~no~~ i have no clue
+
+### how to trigger it
+just send a message
