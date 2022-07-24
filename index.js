@@ -1,4 +1,4 @@
-const client = require("discord.js")
+const { Client, Intents } = require("discord.js")
 const bot = new client({
   partials: ["MESSAGE", "CHANNEL", "REACTION"],
   ws: { properties: { $browser: "desktop" }},
