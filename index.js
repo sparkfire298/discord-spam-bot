@@ -9,7 +9,7 @@ const token = ""; //put your token in the brackets
 
 
 bot.on('ready', () => {
-  bot.user.setActivity("sparkfire298.xyz") //please check out my website too
+  bot.user.setActivity("sparkfire298.tk") //please check out my website too
   console.log(`${bot.user.tag} is online maybe`);
   });
 
